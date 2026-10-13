@@ -27,7 +27,7 @@ class MainActivity : AppCompatActivity() {
 
     companion object {
         private const val TOKEN_NAME = "new_bbs_serviceToken"
-        private const val TELEGRAM_URL = "https://t.me/error444_fahim"
+        private const val TELEGRAM_URL = "https://t.me/sadi_977"
     }
 
     override fun onCreate(savedInstanceState: Bundle?) {

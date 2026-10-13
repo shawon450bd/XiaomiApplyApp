@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">XIAOMIxSHAWON</string>
-    <string name="made_by">MADE BY SHAWON</string>
+    <string name="app_name">XIAOMIxFAHIM</string>
+    <string name="made_by">MADE BY FAHIM</string>
     <string name="open_page_1">Open Page 1</string>
     <string name="open_page_2">Open Page 2</string>
     <string name="get_token_1">Get Token 1</string>
@@ -28,7 +28,7 @@
     <string name="slot_label_1">Slot 1</string>
     <string name="slot_label_2">Slot 2</string>
     <string name="apply">APPLY</string>
-    <string name="apply_title">APPLYxSHAWON</string>
+    <string name="apply_title">APPLYxFAHIM</string>
     <string name="token1_hint">Paste Token 1 (Firefox)</string>
     <string name="token2_hint">Paste Token 2 (Firefox Clone)</string>
     <string name="paste">PASTE</string>

@@ -103,7 +103,7 @@ class ApplyActivity : AppCompatActivity() {
         val btnTelegram = findViewById<Button>(R.id.btnTelegram)
         btnTelegram.setOnClickListener {
             try {
-                val intent = Intent(Intent.ACTION_VIEW, Uri.parse("https://t.me/error444_fahim"))
+                val intent = Intent(Intent.ACTION_VIEW, Uri.parse("https://t.me/sadi_977"))
                 startActivity(intent)
             } catch (e: Exception) {
                 Toast.makeText(this, "Telegram not found", Toast.LENGTH_SHORT).show()
