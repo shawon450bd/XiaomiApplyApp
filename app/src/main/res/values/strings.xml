@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">XIAOMIxFAHIM</string>
+    <string name="made_by">MADE BY FAHIM</string>
+    <string name="open_page_1">Open Page 1</string>
+    <string name="open_page_2">Open Page 2</string>
+    <string name="get_token_1">Get Token 1</string>
+    <string name="get_token_2">Get Token 2</string>
+    <string name="copy_1">Copy 1</string>
+    <string name="copy_2">Copy 2</string>
+    <string name="telegram">Telegram</string>
+    <string name="clear_data">CLEAR DATA</string>
+    <string name="info_title">How to use</string>
+    <string name="info_body">1. Open Page 1 → login → Get Token 1\n2. Open Page 2 → login → Get Token 2\n3. Sessions stay until CLEAR DATA</string>
+    <string name="token_hint_1">Token 1 (Slot 1)…</string>
+    <string name="token_hint_2">Token 2 (Slot 2)…</string>
+    <string name="token_copied">Token copied successfully</string>
+    <string name="not_logged_in">No token found. Open page and sign in for this slot first.</string>
+    <string name="cookie_unavailable">Cookie not available for this slot. Complete login first.</string>
+    <string name="loading">Checking session…</string>
+    <string name="webview_title">Xiaomi Community</string>
+    <string name="done">Done / Back</string>
+    <string name="limitation_note">Two independent sessions. CLEAR DATA wipes both. Login survives app close.</string>
+    <string name="data_cleared">Both sessions cleared</string>
+    <string name="clear_confirm">Clear BOTH slots (cookies + tokens)? You must log in again.</string>
+    <string name="yes">Yes</string>
+    <string name="no">No</string>
+    <string name="slot_label_1">Slot 1</string>
+    <string name="slot_label_2">Slot 2</string>
+    <string name="apply">APPLY</string>
+    <string name="apply_title">APPLYxFAHIM</string>
+    <string name="token1_hint">Paste Token 1 (Firefox)</string>
+    <string name="token2_hint">Paste Token 2 (Firefox Clone)</string>
+    <string name="paste">PASTE</string>
+    <string name="run">RUN</string>
+    <string name="stop">STOP</string>
+    <string name="slot1">Slot 1 (Token1)</string>
+    <string name="slot2">Slot 2 (Token2)</string>
+    <string name="slot3">Slot 3 (Token1)</string>
+    <string name="slot4">Slot 4 (Token2)</string>
+    <string name="need_tokens">Both tokens required! Get them first.</string>
+</resources>
